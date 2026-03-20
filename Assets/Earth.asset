@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e300b0454ec9d3644bddf966666404a4, type: 3}
+  m_Name: Earth
+  m_EditorClassIdentifier: Assembly-CSharp::ElementData
+  elementName: Earth
+  type: 1
+  fireRate: 1.2
+  projectileSpeed: 7
+  baseDamage: 3
+  projectileSize: 1.5
+  hasDOT: 0
+  dotDamage: 0
+  dotDuration: 0
+  knockbackForce: 1
+  isStream: 0
+  streamDamagePerSecond: 15
+  streamRange: 8
+  streamParticlePrefab: {fileID: 0}
+  projectilePrefab: {fileID: 2545070343045284716, guid: 24261b8ad74b584408c6bd5aa25a6bc2, type: 3}
+  elementColor: {r: 0.15686275, g: 0.12941177, b: 0.10196079, a: 0}
